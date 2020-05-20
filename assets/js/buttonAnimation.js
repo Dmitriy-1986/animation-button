@@ -40,7 +40,7 @@ function createParticle (x, y, type) {
         width = height = 'auto';
         break;
         case 'logo':
-        particle.style.backgroundImage = 'url(https://atuin.ru/images/favicon.png)'; // Ссылка на картинку
+        particle.style.backgroundImage = 'url(https://lh3.googleusercontent.com/proxy/TfEkporyg1e-UQOdvNTN3xmzSk7Fi7D_kz89HjapDeR8s79wGcMphvx1_RCl3_Qjoxi0XzjYJVVitM_hofTZIl_Wd7LiPARZ2yQ)'; // Ссылка на картинку
         break;
         case 'shadow':
         var color = `hsl(${Math.random() * 50 + 200}, 70%, 50%)`; // Цвет 
